@@ -10,7 +10,7 @@ import Particles from "react-particles-js";
 import { particlesOption2 } from "./particlesOption2.js";
 import imgCode from "./assets/img-code.jpg";
 
-// components
+// components====================================
 
 import MyNavbar from "./components/myNavbar";
 import ScreenHome from "./components/ScreenHome";
