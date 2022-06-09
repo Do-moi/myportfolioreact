@@ -1,0 +1,32 @@
+.focus {
+  transition: transform 0.3s;
+  box-shadow: 10px 5px 5px rgb(12, 12, 12);
+}
+
+.focus:hover {
+  transform: scale(1.05);
+}
+
+.card-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.image-style {
+  width: 50px;
+}
+
+.font-details {
+  font-size: 3em;
+  font-weight: 500;
+  color: #231d5af8;
+}
+
+.font-details-b {
+  font-size: 3em;
+  font-weight: 500;
+  color: #ffffff;
+}
+.rowStyle {
+  margin-top: 100px;
+}
